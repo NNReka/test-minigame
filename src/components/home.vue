@@ -1,4 +1,5 @@
 <template>
+  <div class="game-container">
   <div class="container">
     <h1 class="title">欢迎来到这个小游戏</h1>
     <div class="content">
@@ -11,32 +12,9 @@
     </div>
     
   </div>
+</div>
 </template>
 
 <style>
-.container {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
-}
-
-.title {
-  font-size: 32px;
-  font-weight: bold;
-  text-align: center;
-  margin-bottom: 20px;
-}
-
-
-.subtitle {
-  font-size: 24px;
-  font-weight: bold;
-  margin-bottom: 10px;
-}
-
-.content {
-  text-align: center;
-  margin-bottom: 30px;
-}
 
 </style>

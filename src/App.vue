@@ -10,20 +10,3 @@
 
 </template>
 
-<style>
-.game-tools {
-    margin-top: 20px;
-    text-align: center;
-  }
-  
-  .game-tool {
-    padding: 5px 10px;
-    margin-right: 10px;
-    background-color: #f44336;
-    color: white;
-    border: none;
-    font-size: 14px;
-    cursor: pointer;
-    border-radius: 5px;
-  }
-</style>
